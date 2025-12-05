@@ -94,7 +94,7 @@
   "DialogBlueprintNotFoundTitle": "Чертеж не найден",
   "DialogBlueprintNotFoundContent": "Не удалось найти чертеж.",
   "DialogBlueprintLoadingFailedTitle": "Не удалось загрузить чертеж",
-  "DialogBlueprintLoadingFailedContent": "Не удалось загрузить сетку из blueprint.",
+  "DialogBlueprintLoadingFailedContent": "Не удалось загрузить сетку из чертежа.",
   "DialogBlueprintScreenshotSavingFailedTitle": "Не удалось сохранить снимок экрана",
   "DialogBlueprintScreenshotSavingFailedContent": "Не удалось сохранить снимок экрана в blueprint. Подробности смотрите в журнале.",
   "LoadBackupWithoutSavingTitle": "Загружайте резервную копию Без сохранения",
