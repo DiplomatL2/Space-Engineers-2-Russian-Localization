@@ -41,7 +41,7 @@
   "UseFunctionalEnable": "Нажмите {Control:InteractPrimary}, чтобы включить",
   "UseFunctionalDisable": "Нажмите {Control:InteractPrimary}, чтобы отключить",
   "UsePickup": "Нажмите {Control:InteractPrimary} для получения",
-  "UseContracts": "Нажмите {Control:InteractPrimary}, чтобы открыть экран контрактов",
+  "UseContracts": "Нажмите {Control:InteractPrimary}, чтобы открыть терминал контрактов",
   "UsePickupInventoryFull": "Инвентарь полон",
   "UsePickupInsufficientFull": "Недостаточно слотов",
   "UseItemSlotHasItem": "Нажмите {Control:InteractPrimary}, чтобы взять {Item}",
