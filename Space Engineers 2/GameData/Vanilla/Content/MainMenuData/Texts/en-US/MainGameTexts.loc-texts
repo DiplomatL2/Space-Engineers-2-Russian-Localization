@@ -71,7 +71,7 @@
   "IntegrityToolComponentHint": "Компонентный режим",
   "IntegrityToolRawHint": "Необработанный режим",
   "TerminalScreenHeaderInventory": "Инвентарь",
-  "TerminalScreenHeaderControlPanel": "панель управления",
+  "TerminalScreenHeaderControlPanel": "Панель управления",
   "TerminalScreenHeaderProduction": "Производство",
   "TerminalScreenHeaderBlocks": "Блоки",
   "TerminalScreenHeaderInfo": "Инфо",
