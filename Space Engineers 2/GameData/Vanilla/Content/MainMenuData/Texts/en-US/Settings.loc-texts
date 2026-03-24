@@ -139,5 +139,9 @@
   "VisualPreference_Quality": "Качество изображения",
   "VisualPreference_Performance": "Производительность",
   "LocalizationOptionsName": "Язык",
-  "LocalizationOptionsDescription": "Изменяет все тексты графического интерфейса в игре на предпочитаемый язык."
+  "LocalizationOptionsDescription": "Изменяет все тексты графического интерфейса в игре на предпочитаемый язык.",
+  "ToolsBusOptionName": "\tTools",
+  "ToolsBusOptionDescription": "Регулирует громкость инструментов в игре.\n\nПримечание: Эта громкость зависит от громкости звуковых эффектов.",
+  "ApplyChanges": "Применить",
+  "ResetToDefaults": "Сбросить"
 }

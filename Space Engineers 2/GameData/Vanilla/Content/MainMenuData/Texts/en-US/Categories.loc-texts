@@ -25,6 +25,8 @@
   "EnergyCategoryTooltip": "Блоки, которые генерируют энергию для вашей сети и управляют ею",
   "MovementCategoryName": "Движение",
   "MovementCategoryTooltip": "Блоки, связанные с мобильностью сети и транспортировкой",
+  "MechanicalCategoryName": "Механика",
+  "MechanicalCategoryTooltip": "Блоки, которые могут перемещаться вдоль или вокруг одной оси при включении питания",
   "ProductionCategoryName": "Производство",
   "ProductionCategoryTooltip": "Блоки для изготовления деталей и изделий",
   "RespawnCategoryName": "Возрождение и подзарядка",

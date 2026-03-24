@@ -1,0 +1,19 @@
+{
+  "NotEnoughCredits": "Недостаточно кредитов",
+  "TraderNotEnoughCredits": "Трейдер не может позволить себе купить это",
+  "ItemNotTradable": "Это не может быть продано здесь",
+  "TradeNotPossible": "Торговля невозможна",
+  "Credits": "Кредиты",
+  "TradeScreenBalance": "Баланс: {Value}",
+  "TradeScreenAvailableStock": "Доступно к продаже",
+  "TradeScreenSellHeader": "Продано {Name}",
+  "TradeScreenSell": "Продать",
+  "TradeScreenBuyHeader": "Куплено {Name}",
+  "TradeScreenBuy": "Купить",
+  "TradeScreenPrice": "{Value}",
+  "TradeScreenPricePerUnit": "Цена за единицу",
+  "TradeScreenTotalCost": "Общая стоимость",
+  "TradeScreenTotalProfit": "Общая прибыль",
+  "ItemCantFit": "Выбранное количество не может поместиться в целевой запас.",
+  "TradeTransferPlayerBalance": "Баланс игрока"
+}

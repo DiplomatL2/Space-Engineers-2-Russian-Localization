@@ -13,5 +13,6 @@
   "RespawnPendingText": "Возрождение...",
   "DeathFanFareTitle": "{DeathReason}",
   "KillMessageCustomDamageSource": "",
-  "KillMessageUnknown": "Потрачено."
+  "KillMessageUnknown": "Потрачено.",
+  "KillMessageHeat": "Ты сгорел дотла."
 }

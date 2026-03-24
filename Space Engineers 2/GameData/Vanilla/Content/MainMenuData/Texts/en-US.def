@@ -1,13 +1,12 @@
 {
   "$Bundles": {
     "System.Runtime": "1.0.0.0",
-    "VRage": "2.0.1.3701"
+    "VRage": "2.2.0.753"
   },
   "$Type": "VRage:Keen.VRage.Library.Localization.CultureInfoAssetDefinitionObjectBuilder",
   "$Value": {
     "Guid": "df143f5b-70d0-4ccd-8da2-fc1336a83772",
     "LocalizedName": "Russia (Русский)",
-    "Id": "en-US",
     "Resources": [
       {
         "Key": "77e0d216-2dba-44e7-a470-336620aafa8b",
@@ -183,7 +182,22 @@
           "ContentId": "ProgressionRewards",
           "Asset": "{G}abb5933e-50c7-4d79-9ef1-b994e10d5920"
         }
+      },
+      {
+        "Key": "2117ae3f-db9b-4ecc-8be5-bb5653880de4",
+        "Value": {
+          "ContentId": "Trading",
+          "Asset": "{G}fe65805a-0283-45e1-b40c-3b72c9c27d9b"
+        }
+      },
+      {
+        "Key": "41a1d0f3-b40b-4672-be03-c2e0dc581b8b",
+        "Value": {
+          "ContentId": "Datapads",
+          "Asset": "{G}0a0d32d2-93f8-46f0-8bda-9a2fb5e7c075"
+        }
       }
-    ]
+    ],
+    "Id": "en-US"
   }
 }
